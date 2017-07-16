@@ -30,9 +30,6 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Tools\glew-2.0.0\glew-2.0.0\include\GL\glew.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Shader_Loader.h">
       <Filter>Core</Filter>
     </ClInclude>

@@ -3,8 +3,8 @@
 //#define GLEW_STATIC
 
 
-#include <gl\glew.h>
-#include <gl\freeglut.h>
+#include <GL\glew.h>
+#include <GL\freeglut.h>
 #include <iostream>
 
 namespace Core
